@@ -1,2 +1,2 @@
 tera
-tera.txtを編集
+tera
